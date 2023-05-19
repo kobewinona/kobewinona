@@ -12,7 +12,7 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 
 ## Follow Me
 
-![Twitter](https://img.shields.io/twitter/follow/dima_klimkin?color=FEFEFE&logo=twitter&logoColor=FEFEFE&style=flat-square)
+![Twitter](https://img.shields.io/twitter/follow/dima_klimkin?style=social)
 
 
 
