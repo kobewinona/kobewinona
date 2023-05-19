@@ -25,7 +25,7 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 
 ## &rang;&rang; my work done
 
-[![mesto](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=mesto&icon_color=e0e0e0&border_radius=8&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/mesto-react) [![compete-project](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=compete-project&icon_color=e0e0e0&border_radius=8&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/mesto-react) [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=russian-travel&icon_color=e0e0e0&border_radius=8&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/mesto-react)
+[![mesto](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=mesto&icon_color=e0e0e0&border_radius=8&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/mesto) [![compete-project](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=compete-project&icon_color=e0e0e0&border_radius=8&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/compete-project) [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=russian-travel&icon_color=e0e0e0&border_radius=8&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/russian-travel)
 
 ## &rang; my LeetCode stats
 
