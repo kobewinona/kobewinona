@@ -1,4 +1,4 @@
-![cover](/images/cover-with-photo-2.png)
+![cover](/images/cover-with-photo.svg)
 
 # ![hello](/images/hello-world-3.svg) I'm Dima
 
@@ -14,7 +14,7 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 
 [![Twitter](https://img.shields.io/twitter/follow/dima_klimkin?color=D3D5DB&logo=twitter&style=flat-square&labelColor=FEFEFE)](https://twitter.com/intent/follow?screen_name=dima_klimkin)
 
-[![Secret](/images/seal-2.png)](https://youtu.be/5zjvOJTqr3Q)
+[![Secret](/images/seal.svg)](https://youtu.be/5zjvOJTqr3Q)
 
 
 
