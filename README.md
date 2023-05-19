@@ -12,7 +12,13 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 
 ## Follow Me
 
-![Twitter](https://img.shields.io/twitter/follow/dima_klimkin?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/dima_klimkin?color=D3D5DB&logo=twitter&style=flat-square&labelColor=FEFEFE)](https://twitter.com/intent/follow?screen_name=dima_klimkin)
+
+[![Secret](/images/seal-2.png)](https://youtu.be/5zjvOJTqr3Q)
+
+
+
+
 
 
 
