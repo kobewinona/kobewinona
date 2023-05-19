@@ -1,6 +1,4 @@
-![cover](/images/static-website-animate.svg)
-
-
+![cover](/images/static-website-animate-8.svg)
 
 # ![hello](/images/hello-world-4.svg) I'm Dima
 
@@ -10,8 +8,6 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 
 | contact me | [![telegram](https://img.shields.io/badge/d_klimkin-f9f9f9?style=for-the-badge&logo=telegram)](https://t.me/d_klimkin) [![linkedin](https://img.shields.io/badge/dima_klimkin-f9f9f9?style=for-the-badge&&logoColor=0B66C2&logo=linkedin)](https://www.linkedin.com/in/dima-klimkin-259164192/) |
 |:----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-
-</br></br></br>
 
 ## &rang; technologies
 
@@ -34,7 +30,5 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 ## &rang; my LeetCode stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kobewinona?ext=heatmap&border_radius=8&border=0&bg_color=f9f9f9)
-
----
 
 [![seal](https://img.shields.io/badge/something_i_did_long_ago-f9f9f9?style=for-the-badge&&logoColor=E72B20&logo=youtube)](https://youtu.be/5zjvOJTqr3Q)
