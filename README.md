@@ -1,4 +1,4 @@
-![cover](/images/static-website-animate-8.svg)
+![cover](/images/static-website-animate-9.svg)
 
 # ![hello](/images/hello-world-4.svg) I'm Dima
 
