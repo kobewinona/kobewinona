@@ -6,6 +6,8 @@
 
 I want to expand my knowledge and become a full-stack web developer, constantly learning and discovering new opportunities in creating websites and web applications. I love exploring new ideas and turning graphic design concepts into reality. I'm detail-oriented and take pride in my work. Let's create something amazing together!
 
+My love for coding started 8 years ago with a polygon [seal drawing](https://youtu.be/5zjvOJTqr3Q) using vector graphics, and over time, thanks to cool educational platforms, it grew into a love for web development as a whole. Despite many years of experience in the medical field, I really want to find a job creating services for all the things that have been exciting me for years - learning new things and good design.
+
 | contact me | [![telegram](https://img.shields.io/badge/d_klimkin-f9f9f9?style=for-the-badge&logo=telegram)](https://t.me/d_klimkin) [![linkedin](https://img.shields.io/badge/dima_klimkin-f9f9f9?style=for-the-badge&logoColor=0b66c2&logo=linkedin)](https://www.linkedin.com/in/dima-klimkin-259164192/) |
 |:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
@@ -30,5 +32,3 @@ I want to expand my knowledge and become a full-stack web developer, constantly 
 ## &rang; my LeetCode stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kobewinona?ext=heatmap&border_radius=8&border=0&bg_color=f9f9f9)
-
-[![seal](https://img.shields.io/badge/something_i_did_long_ago-f9f9f9?style=for-the-badge&&logoColor=E72B20&logo=youtube)](https://youtu.be/5zjvOJTqr3Q)
