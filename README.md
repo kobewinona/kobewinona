@@ -33,6 +33,7 @@ I love learning new languages. In my free time, I study drawing and I am learnin
 
 [![mesto](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=mesto&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/mesto) [![compete-project](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=compete-project&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/compete-project) [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=russian-travel&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/russian-travel)
 
-## &rang; my LeetCode stats
+[//]: # (## &rang; my LeetCode stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kobewinona?ext=heatmap&border_radius=8&border=0&bg_color=f9f9f9)
+[//]: # ()
+[//]: # (![Leetcode Stats]&#40;https://leetcard.jacoblin.cool/kobewinona?ext=heatmap&border_radius=8&border=0&bg_color=f9f9f9&#41;)
