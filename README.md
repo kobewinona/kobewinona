@@ -1,6 +1,4 @@
-![cover](/images/static-website-animate-9.svg)
-
-# ![hello](/images/hello-world-4.svg) I'm Dima
+# Dima
 
 I'm a Frontend developer.
 
@@ -23,15 +21,15 @@ I love learning new languages. In my free time, I study drawing, and I am learni
 
 ## &rang; my GitHub stats
 
-![kobewinona's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobewinona&count_private=true&include_all_commits=true&show_icons=true&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd&line_height=21px&hide_title=true) [![kobewinona's most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobewinona&layout=compact&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd&custom_title=My%20Most%20Used%20Languagues)](https://github.com/anuraghazra/github-readme-stats)
+![kobewinona's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobewinona&count_private=true&include_all_commits=true&show_icons=true&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=ddd&title_color=222&line_height=21px&hide_title=true) [![kobewinona's most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobewinona&layout=compact&border_radius=5&hide_border=true&bg_color=ddd&title_color=222&custom_title=My%20Most%20Used%20Languagues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## &rang;&rang;&rang; my work in progress
 
-[![ply-pie](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=ply-pie&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=407BFD&title_color=f9f9f9&text_color=f9f9f9)](https://github.com/kobewinona/ply-pie)
+[![ply-pie](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=ply-pie&icon_color=ddd&border_radius=5&hide_border=true&bg_color=222&title_color=ddd&text_color=ddd)](https://github.com/kobewinona/ply-pie)
 
 ## &rang; my work done
 
-[![movies-explorer-frontend](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=movies-explorer-frontend&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/movies-explorer-frontend) [![movies-explorer-api](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=movies-explorer-api&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/movies-explorer-api) [![mesto](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=react-mesto-api-full-gha&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/react-mesto-api-full-gha) [![compete-project](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=compete-project&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/compete-project) [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=russian-travel&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/russian-travel) [![how-to-learn](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=how-to-learn&icon_color=e0e0e0&border_radius=5&hide_border=true&bg_color=f9f9f9&title_color=407bfd)](https://github.com/kobewinona/how-to-learn)
+[![movies-explorer-frontend](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=movies-explorer-frontend&icon_color=888&border_radius=5&hide_border=true&bg_color=ddd&title_color=222)](https://github.com/kobewinona/movies-explorer-frontend) [![movies-explorer-api](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=movies-explorer-api&icon_color=888&border_radius=5&hide_border=true&bg_color=ddd&title_color=222)](https://github.com/kobewinona/movies-explorer-api) [![mesto](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=react-mesto-api-full-gha&icon_color=888&border_radius=5&hide_border=true&bg_color=ddd&title_color=222)](https://github.com/kobewinona/react-mesto-api-full-gha) [![compete-project](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=compete-project&icon_color=888&border_radius=5&hide_border=true&bg_color=ddd&title_color=222)](https://github.com/kobewinona/compete-project) [![russian-travel](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=russian-travel&icon_color=888&border_radius=5&hide_border=true&bg_color=ddd&title_color=222)](https://github.com/kobewinona/russian-travel) [![how-to-learn](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=how-to-learn&icon_color=888&border_radius=5&hide_border=true&bg_color=ddd&title_color=222)](https://github.com/kobewinona/how-to-learn)
 
 [//]: # (## &rang; my LeetCode stats)
 
