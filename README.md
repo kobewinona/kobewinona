@@ -25,7 +25,7 @@ I love learning new languages. In my free time, I study drawing, and I am learni
 
 ## &rang;&rang;&rang; my work in progress
 
-[![42Network](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=ply-pie&icon_color=ddd&border_radius=5&hide_border=true&bg_color=222&title_color=eee&text_color=eee)](https://github.com/kobewinona/42network) [![ply-pie](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=ply-pie&icon_color=ddd&border_radius=5&hide_border=true&bg_color=222&title_color=eee&text_color=eee)](https://github.com/kobewinona/ply-pie)
+[![42Network](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=42network&icon_color=ddd&border_radius=5&hide_border=true&bg_color=222&title_color=eee&text_color=eee)](https://github.com/kobewinona/42network) [![ply-pie](https://github-readme-stats.vercel.app/api/pin/?username=kobewinona&repo=ply-pie&icon_color=ddd&border_radius=5&hide_border=true&bg_color=222&title_color=eee&text_color=eee)](https://github.com/kobewinona/ply-pie)
 
 ## &rang; my work done
 
